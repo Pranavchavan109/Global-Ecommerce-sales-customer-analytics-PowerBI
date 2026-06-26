@@ -90,6 +90,7 @@ Monitors shipping performance, delivery trends, and operational health.
 ----
 
 ### Columns Used
+
 | Group | Columns |
 |---|---|
 | Order & Date | order_id, order_date, order_status, is_weekend |
@@ -183,7 +184,7 @@ Global-Ecommerce-Dashboard/
 
 ---
 
-## 👤 Author
+##  Author
 **Pranav**
 
 🔗 LinkedIn:
