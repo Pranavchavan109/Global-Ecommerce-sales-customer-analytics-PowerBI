@@ -25,7 +25,7 @@ Provides an executive-level summary of business performance.
   - Revenue by Category (Treemap)
   - Weekend vs Weekday Orders (Column chart)
   - Country-wise Revenue, Profit & Margin (Table)
-- **Slicers:** Category, Country, Order Status, Customer Segment, Order Date
+- **Slicers:** Category, Country, Order Status, Customer Segment, Order Date.
 
 ---
 
